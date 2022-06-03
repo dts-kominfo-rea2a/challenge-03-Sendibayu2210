@@ -21,7 +21,6 @@ const dataBelanjaan = [
 ];
 
 // boleh dimodifikasi bila ingin menggunakan deklarasi fungsi yang normal
-listBelanjaan(dataBelanjaan);
 function listBelanjaan(dataBelanjaan){ 
   let daftarBelanja = []; 
   for(let i=0; i<dataBelanjaan.length; i++){
